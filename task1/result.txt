@@ -1,0 +1,3 @@
+The optimal alignment between given sequences has score 26.
+GCATT-GC
+G-ATTAGC
